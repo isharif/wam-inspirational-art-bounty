@@ -7,7 +7,7 @@ https://bah5acgza27xwgrpefatvcwjf5orlmskyqam5b7p4ydfwc4sr6l3zwjpacq5q.bzz.link/
 
 For easier identification, the art piece and its accompanying text are reproduced below as well. 
 
-![Swartz_Pledge_Image]()
+![Swartz_Pledge_Image](https://raw.githubusercontent.com/isharif/wam-inspirational-art-bounty/main/assets/swartz_memory.png)
 
 Accompanying text: 
 
